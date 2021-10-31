@@ -10,4 +10,4 @@ However, based on the real-observed data in preschool classroom, we do find some
 2. relative orientations of children and their patners are not randomly distributed. Data also shows that children tend to be oriented in a "shoulder-to-shoulder" way when distance between is short. Whereas children are more likely to be oriented in a "face-to-face" way at a relatively larger distance.
 
 
-Based on the above observed pattern, we build a model that assumes children behave as ferromagnets at a short distance, while antiferromagne at a relatively larger distance. The results shows this model well captures several feathers of human movement.
+Based on the above observed patterns, we build a model that assumes children behave as ferromagnets at a short distance, while antiferromagne at a relatively larger distance. The results shows this model well captures several feathers of human movement.
