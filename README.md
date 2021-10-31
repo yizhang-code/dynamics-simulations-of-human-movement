@@ -1,5 +1,5 @@
 # dynamics-simulations-of-human-movement
-project aims to understand fundamental dynamics of human's movement, and proposes a model to capture several important features of human movement.
+project aims to understand fundamental dynamics of human movement, and proposes a model to capture several important features of human movement.
 
 The mechanisms of human's movement are very complicated, there is no a general rule of thrumb which explains what's happening in real work. 
 However, based on the real-observed data in preschool classroom, we do find some general patterns that can be helpful to understand the mechanism and build explainable model.
@@ -11,3 +11,6 @@ However, based on the real-observed data in preschool classroom, we do find some
 
 
 Based on the above observed patterns, we build a model that assumes children behave as ferromagnets at a short distance, while antiferromagne at a relatively larger distance. The results shows this model well captures several feathers of human movement.
+
+
+To explore the model properties, I designed a couple softwares to simulate and analyze those behaviors.
