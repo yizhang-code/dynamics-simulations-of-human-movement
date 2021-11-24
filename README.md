@@ -16,7 +16,6 @@ REAL DATA VISUALIZATION
 
    1.data collection\
       Radio Frequency Identification technology (RFID) such as that embedded in child-worn Ubisense tags Fig. 1, allows for efficient capture of each           child’s location and movement throughout the classroom and informs our understanding of which children tend to be in proximity of each other.             Continuous RFID measurements of each child’s location were collected using the Ubisense Dimension4 system.
-
-    <img src="findings/traj-300sec.png" >
-    <em>image_caption</em>
+<img src="findings/traj-300sec.png" >
+<em>image_caption</em>
 
