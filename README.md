@@ -15,4 +15,6 @@ Based on the above-observed patterns, we build a model that assumes children beh
 REAL DATA VISUALIZATION
 
    1.data collection
-   Radio Frequency Identification technology (RFID) such as that embedded in child-worn Ubisense tags Fig. 1, allows for efficient capture of each        child’s location and movement throughout the classroom and informs our understanding of which children tend to be in proximity of each other.              Continuous RFID measurements of each child’s location were collected using the Ubisense Dimension4 system.![thumbnail_Ubisense_tag](https://user-images.githubusercontent.com/72944468/143320720-eb2acd1d-2342-48a8-a6a2-24b4332afe1d.jpg)
+      Radio Frequency Identification technology (RFID) such as that embedded in child-worn Ubisense tags Fig. 1, allows for efficient capture of each           child’s location and movement throughout the classroom and informs our understanding of which children tend to be in proximity of each other.             Continuous RFID measurements of each child’s location were collected using the Ubisense Dimension4 system.!
+   
+   [thumbnail_Ubisense_tag](https://user-images.githubusercontent.com/72944468/143320720-eb2acd1d-2342-48a8-a6a2-24b4332afe1d.jpg)
