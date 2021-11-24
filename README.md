@@ -24,4 +24,5 @@ Figure 1 shows the trajectories of the nine children for 300 seconds during one 
 
 To quantify the size of the cluster we measure mean square displacement (MSD) for translational and rotational directions, respectively (see Fig. 2 a&b). Figure 2a plots the translational MSD  with time, finding that a normal diffusion  for short time scale t<tc~10seconds. For a large time scale, we find a subdiffusion with 0.5. The typical time scale tc10 characterizes the size of clusters ~1-2m.  In contrast, the rotational MSD shows a normal diffusion (Fig 2b). The sublinearity of the MSD in the translational motions suggests a strong memory effect (long-range time correlation) of the children’s movement, resulting in a longer waiting time in particular areas of the classroom, whereas no such effect is observed in terms of orientations.
 
-
+<img src="findings/msd-vacf.jpg" width=600 >\
+<em>Figure 1. continuous measurement of real human locations and orientations </em>
