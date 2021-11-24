@@ -14,8 +14,7 @@ Based on the above-observed patterns, we build a model that assumes children beh
 
 REAL DATA VISUALIZATION
 
-   1.data collection\
-      Radio Frequency Identification technology (RFID)vallows for efficient capture of each child’s location and movement throughout the classroom and informs our understanding of which children tend to be in proximity of each other.        
+Radio Frequency Identification technology (RFID)vallows for efficient capture of each child’s location and movement throughout the classroom and informs our understanding of which children tend to be in proximity of each other.        
       
 <img src="findings/traj-300sec.png" width=600 >\
 <em>Figure 1. continuous measurement of real human locations and orientations </em>
