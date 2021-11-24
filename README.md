@@ -15,8 +15,9 @@ Based on the above-observed patterns, we build a model that assumes children beh
 REAL DATA VISUALIZATION
 
    1.data collection\
-      Radio Frequency Identification technology (RFID) such as that embedded in child-worn Ubisense tags Fig. 1, allows for efficient capture of each           child’s location and movement throughout the classroom and informs our understanding of which children tend to be in proximity of each other.             Continuous RFID measurements of each child’s location were collected using the Ubisense Dimension4 system.\
+      Radio Frequency Identification technology (RFID)vallows for efficient capture of each child’s location and movement throughout the classroom and informs our understanding of which children tend to be in proximity of each other.        
       
 <img src="findings/traj-300sec.png" width=600 >\
-<em>Figure 1. continuues measurement of real human lacations and orientations </em>
+<em>Figure 1. continuous measurement of real human locations and orientations </em>
 
+Figure 1 shows the trajectories of the nine children for 300 seconds during one period of class time. Using tags worn by children, we can also find orientation for each kid data collection. The arrow represents the orientation of the child. We find that the children are not uniformly walking/running the whole classroom space, they wander in a small area for a certain amount of time when they are interacting with other children in social contact, the motions are trapped by localization
